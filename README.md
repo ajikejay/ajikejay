@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajikejay
-- 👀 I’m interested in ... data sciences
-- 🌱 I’m currently learning ... excel
-- 💞️ I’m looking to collaborate on ... excel data work
+- 👀 I’m interested in ... data analytics
+- 🌱 I’m quite good with SQl
+- 💞️ I’m looking to collaborate with Data Analytics
 - 📫 How to reach me ... ajikesolaadeniyi@gmail.com
 
 <!---
