@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajikejay
 - 👀 I’m interested in ... data analytics
-- 🌱 I’m quite good with SQl
+- 🌱 I’m quite good with SQL
 - 💞️ I’m looking to collaborate with Data Analytics
 - 📫 How to reach me ... ajikesolaadeniyi@gmail.com
 
